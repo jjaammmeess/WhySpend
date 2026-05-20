@@ -39,7 +39,7 @@ This Privacy Policy explains how we process, store, and protect your information
 
 ## Who we are
 
-**MoodSpend** (花钱了) is provided by an developer.
+**MoodSpend** is provided by an developer.
 
 - **We do not operate our own servers** to collect, store, or analyze your expense or mood entries  
 - Data **stays on your iPhone by default**; only when you turn on **iCloud sync** does **Apple** sync it across devices signed into the **same Apple ID**  
