@@ -1,8 +1,8 @@
-# WhySpend (花钱了) Technical Support
+# WhySpend Technical Support
 
 > English | [简体中文](technical-support.zh-Hans.md)
 
-**WhySpend** (Chinese display name: **花钱了**) is an expense tracker focused on the emotional context behind spending. This document is for end users and testers: features, settings, and troubleshooting.
+**WhySpend** is an expense tracker focused on the emotional context behind spending. This document is for end users and testers: features, settings, and troubleshooting.
 
 ---
 
@@ -29,7 +29,7 @@ When reporting an issue, please include: **device model, iOS version, app versio
 
 | Context | Behavior |
 |---------|----------|
-| Home Screen icon label | Follows **system language**: e.g. 花钱了 (Chinese), WhySpend (English) |
+| Home Screen icon label | Follows **system language**: localized Chinese or English name (e.g. WhySpend) |
 | In-app UI language | **Mine → Basic Settings → Language** |
 
 ### Supported in-app languages
@@ -159,6 +159,6 @@ Legal: [Privacy Policy](../privacy-policy.md) · [Terms of Use](../terms-of-use.
 
 | Date | Notes |
 |------|-------|
-| May 2026 | Initial release for WhySpend / 花钱了 beta and user support |
+| May 2026 | Initial release for WhySpend beta and user support |
 
 If this document conflicts with the App Store build, the **store version** takes precedence.

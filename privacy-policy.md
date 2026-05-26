@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>WhySpend</strong> · 花钱了<br/>
+  <strong>WhySpend</strong><br/>
   <sub>Privacy Policy</sub>
 </p>
 
